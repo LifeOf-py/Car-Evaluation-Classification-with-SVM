@@ -47,4 +47,4 @@ This project applies classification techniques to the **Car Evaluation Dataset**
 
 Predicting vehicle evaluation ratings based on specifications helps automotive companies align products with consumer expectations and improve segmentation, design, and marketing strategies.
 
-> 📂 Explore the notebook: `predictive_hw2_q5.ipynb`
+> 📂 Explore the notebook: `car_evaluation_multiclass.ipynb`
